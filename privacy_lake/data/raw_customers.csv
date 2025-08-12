@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,ssn,dob,country
+101,John,Doe,john.doe@example.com,123-456-7890,1990-05-15,USA
+102,Jane,Smith,jane.s@email.org,987-654-3210,1985-11-20,CAN
+103,Peter,Jones,p.jones@webmail.com,555-444-3333,1992-02-28,USA
+104,Priya,Sharma,priya.sharma@domain.co.in,777-888-9999,1995-07-30,IND
